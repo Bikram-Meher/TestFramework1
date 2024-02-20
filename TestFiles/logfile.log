@@ -1,0 +1,170 @@
+2024-02-17 11:10:19,411: INFO: test_e2e: Clicked on Shop Link:
+2024-02-17 11:10:19,979: INFO: test_e2e: getting all cart titles:
+2024-02-17 11:10:20,166: INFO: test_e2e: iphone X:
+2024-02-17 11:10:20,179: INFO: test_e2e: Samsung Note 8:
+2024-02-17 11:10:20,191: INFO: test_e2e: Nokia Edge:
+2024-02-17 11:10:20,269: INFO: test_e2e: Blackberry:
+2024-02-17 11:10:20,403: INFO: test_e2e: Nokia Edge:
+2024-02-17 11:10:26,067: INFO: test_e2e: Entering country name:
+2024-02-17 11:10:26,259: INFO: test_e2e: Clicked on agree button:
+2024-02-17 11:10:26,482: INFO: test_e2e: Text received from application:
+2024-02-17 11:10:28,391: INFO: test_e2e2: Entering FirstnameRahul:
+2024-02-17 11:10:28,516: INFO: test_e2e2: Entering emailhello@gmail.com:
+2024-02-17 11:10:28,726: INFO: test_e2e2: Entering Password123456:
+2024-02-17 11:10:28,821: INFO: test_e2e2: Clicking on checkbox:
+2024-02-17 11:10:28,898: INFO: test_e2e2: Clicking on radiobutton:
+2024-02-17 11:10:29,022: INFO: test_e2e2: selecting gender:
+2024-02-17 11:10:29,220: INFO: test_e2e2: ×
+Success! The Form has been submitted successfully!.:
+2024-02-17 11:10:29,472: INFO: test_e2e2: Entering FirstnameVicky:
+2024-02-17 11:10:29,472: INFO: test_e2e2: Entering FirstnameVicky:
+2024-02-17 11:10:29,616: INFO: test_e2e2: Entering emailhello@gmail.com:
+2024-02-17 11:10:29,616: INFO: test_e2e2: Entering emailhello@gmail.com:
+2024-02-17 11:10:29,733: INFO: test_e2e2: Entering Password123456:
+2024-02-17 11:10:29,733: INFO: test_e2e2: Entering Password123456:
+2024-02-17 11:10:29,828: INFO: test_e2e2: Clicking on checkbox:
+2024-02-17 11:10:29,828: INFO: test_e2e2: Clicking on checkbox:
+2024-02-17 11:10:29,898: INFO: test_e2e2: Clicking on radiobutton:
+2024-02-17 11:10:29,898: INFO: test_e2e2: Clicking on radiobutton:
+2024-02-17 11:10:29,969: INFO: test_e2e2: selecting gender:
+2024-02-17 11:10:29,969: INFO: test_e2e2: selecting gender:
+2024-02-17 11:10:30,216: INFO: test_e2e2: ×
+Success! The Form has been submitted successfully!.:
+2024-02-17 11:10:30,216: INFO: test_e2e2: ×
+Success! The Form has been submitted successfully!.:
+2024-02-17 11:20:29,888: INFO: test_e2e: Clicked on Shop Link:
+2024-02-17 11:20:30,372: INFO: test_e2e: getting all cart titles:
+2024-02-17 11:20:30,400: INFO: test_e2e: iphone X:
+2024-02-17 11:20:30,414: INFO: test_e2e: Samsung Note 8:
+2024-02-17 11:20:30,427: INFO: test_e2e: Nokia Edge:
+2024-02-17 11:20:30,585: INFO: test_e2e: Blackberry:
+2024-02-17 11:20:30,715: INFO: test_e2e: Nokia Edge:
+2024-02-17 11:20:36,401: INFO: test_e2e: Entering country name:
+2024-02-17 11:20:36,558: INFO: test_e2e: Clicked on agree button:
+2024-02-17 11:20:36,768: INFO: test_e2e: Text received from application:
+2024-02-17 11:20:38,661: INFO: test_e2e2: Entering FirstnameRahul:
+2024-02-17 11:20:38,822: INFO: test_e2e2: Entering emailhello@gmail.com:
+2024-02-17 11:20:38,970: INFO: test_e2e2: Entering Password123456:
+2024-02-17 11:20:39,068: INFO: test_e2e2: Clicking on checkbox:
+2024-02-17 11:20:39,154: INFO: test_e2e2: Clicking on radiobutton:
+2024-02-17 11:20:39,225: INFO: test_e2e2: selecting gender:
+2024-02-17 11:20:39,379: INFO: test_e2e2: ×
+Success! The Form has been submitted successfully!.:
+2024-02-17 11:20:39,621: INFO: test_e2e2: Entering FirstnameVicky:
+2024-02-17 11:20:39,621: INFO: test_e2e2: Entering FirstnameVicky:
+2024-02-17 11:20:39,744: INFO: test_e2e2: Entering emailhello@gmail.com:
+2024-02-17 11:20:39,744: INFO: test_e2e2: Entering emailhello@gmail.com:
+2024-02-17 11:20:39,893: INFO: test_e2e2: Entering Password123456:
+2024-02-17 11:20:39,893: INFO: test_e2e2: Entering Password123456:
+2024-02-17 11:20:39,981: INFO: test_e2e2: Clicking on checkbox:
+2024-02-17 11:20:39,981: INFO: test_e2e2: Clicking on checkbox:
+2024-02-17 11:20:40,045: INFO: test_e2e2: Clicking on radiobutton:
+2024-02-17 11:20:40,045: INFO: test_e2e2: Clicking on radiobutton:
+2024-02-17 11:20:40,140: INFO: test_e2e2: selecting gender:
+2024-02-17 11:20:40,140: INFO: test_e2e2: selecting gender:
+2024-02-17 11:20:40,316: INFO: test_e2e2: ×
+Success! The Form has been submitted successfully!.:
+2024-02-17 11:20:40,316: INFO: test_e2e2: ×
+Success! The Form has been submitted successfully!.:
+2024-02-17 11:28:21,664: INFO: test_e2e: Clicked on Shop Link:
+2024-02-17 11:28:22,308: INFO: test_e2e: getting all cart titles:
+2024-02-17 11:28:22,338: INFO: test_e2e: iphone X:
+2024-02-17 11:28:22,350: INFO: test_e2e: Samsung Note 8:
+2024-02-17 11:28:22,362: INFO: test_e2e: Nokia Edge:
+2024-02-17 11:28:22,482: INFO: test_e2e: Blackberry:
+2024-02-17 11:28:22,606: INFO: test_e2e: Nokia Edge:
+2024-02-17 11:28:28,191: INFO: test_e2e: Entering country name:
+2024-02-17 11:28:28,380: INFO: test_e2e: Clicked on agree button:
+2024-02-17 11:28:28,567: INFO: test_e2e: Text received from application:
+2024-02-17 11:28:31,029: INFO: test_e2e2: Entering FirstnameRahul:
+2024-02-17 11:28:31,257: INFO: test_e2e2: Entering emailhello@gmail.com:
+2024-02-17 11:28:31,494: INFO: test_e2e2: Entering Password123456:
+2024-02-17 11:28:31,595: INFO: test_e2e2: Clicking on checkbox:
+2024-02-17 11:28:31,677: INFO: test_e2e2: Clicking on radiobutton:
+2024-02-17 11:28:31,750: INFO: test_e2e2: selecting gender:
+2024-02-17 11:28:31,931: INFO: test_e2e2: ×
+Success! The Form has been submitted successfully!.:
+2024-02-17 11:28:32,241: INFO: test_e2e2: Entering FirstnameVicky:
+2024-02-17 11:28:32,241: INFO: test_e2e2: Entering FirstnameVicky:
+2024-02-17 11:28:32,405: INFO: test_e2e2: Entering emailhello@gmail.com:
+2024-02-17 11:28:32,405: INFO: test_e2e2: Entering emailhello@gmail.com:
+2024-02-17 11:28:32,628: INFO: test_e2e2: Entering Password123456:
+2024-02-17 11:28:32,628: INFO: test_e2e2: Entering Password123456:
+2024-02-17 11:28:32,788: INFO: test_e2e2: Clicking on checkbox:
+2024-02-17 11:28:32,788: INFO: test_e2e2: Clicking on checkbox:
+2024-02-17 11:28:32,852: INFO: test_e2e2: Clicking on radiobutton:
+2024-02-17 11:28:32,852: INFO: test_e2e2: Clicking on radiobutton:
+2024-02-17 11:28:32,933: INFO: test_e2e2: selecting gender:
+2024-02-17 11:28:32,933: INFO: test_e2e2: selecting gender:
+2024-02-17 11:28:33,131: INFO: test_e2e2: ×
+Success! The Form has been submitted successfully!.:
+2024-02-17 11:28:33,131: INFO: test_e2e2: ×
+Success! The Form has been submitted successfully!.:
+2024-02-17 11:30:35,667: INFO: test_e2e: Clicked on Shop Link:
+2024-02-17 11:30:36,317: INFO: test_e2e: getting all cart titles:
+2024-02-17 11:30:36,352: INFO: test_e2e: iphone X:
+2024-02-17 11:30:36,367: INFO: test_e2e: Samsung Note 8:
+2024-02-17 11:30:36,382: INFO: test_e2e: Nokia Edge:
+2024-02-17 11:30:36,538: INFO: test_e2e: Blackberry:
+2024-02-17 11:30:36,653: INFO: test_e2e: Nokia Edge:
+2024-02-17 11:30:42,277: INFO: test_e2e: Entering country name:
+2024-02-17 11:30:42,406: INFO: test_e2e: Clicked on agree button:
+2024-02-17 11:30:42,623: INFO: test_e2e: Text received from application:
+2024-02-17 11:30:44,528: INFO: test_e2e2: Entering FirstnameRahul:
+2024-02-17 11:30:44,715: INFO: test_e2e2: Entering emailhello@gmail.com:
+2024-02-17 11:30:44,835: INFO: test_e2e2: Entering Password123456:
+2024-02-17 11:30:44,933: INFO: test_e2e2: Clicking on checkbox:
+2024-02-17 11:30:45,007: INFO: test_e2e2: Clicking on radiobutton:
+2024-02-17 11:30:45,120: INFO: test_e2e2: selecting gender:
+2024-02-17 11:30:45,393: INFO: test_e2e2: ×
+Success! The Form has been submitted successfully!.:
+2024-02-17 11:30:45,704: INFO: test_e2e2: Entering FirstnameVicky:
+2024-02-17 11:30:45,704: INFO: test_e2e2: Entering FirstnameVicky:
+2024-02-17 11:30:45,868: INFO: test_e2e2: Entering emailhello@gmail.com:
+2024-02-17 11:30:45,868: INFO: test_e2e2: Entering emailhello@gmail.com:
+2024-02-17 11:30:46,094: INFO: test_e2e2: Entering Password123456:
+2024-02-17 11:30:46,094: INFO: test_e2e2: Entering Password123456:
+2024-02-17 11:30:46,265: INFO: test_e2e2: Clicking on checkbox:
+2024-02-17 11:30:46,265: INFO: test_e2e2: Clicking on checkbox:
+2024-02-17 11:30:46,333: INFO: test_e2e2: Clicking on radiobutton:
+2024-02-17 11:30:46,333: INFO: test_e2e2: Clicking on radiobutton:
+2024-02-17 11:30:46,406: INFO: test_e2e2: selecting gender:
+2024-02-17 11:30:46,406: INFO: test_e2e2: selecting gender:
+2024-02-17 11:30:46,650: INFO: test_e2e2: ×
+Success! The Form has been submitted successfully!.:
+2024-02-17 11:30:46,650: INFO: test_e2e2: ×
+Success! The Form has been submitted successfully!.:
+2024-02-17 11:35:35,507: INFO: test_e2e: Clicked on Shop Link:
+2024-02-17 11:35:36,280: INFO: test_e2e: getting all cart titles:
+2024-02-17 11:35:36,321: INFO: test_e2e: iphone X:
+2024-02-17 11:35:36,333: INFO: test_e2e: Samsung Note 8:
+2024-02-17 11:35:36,346: INFO: test_e2e: Nokia Edge:
+2024-02-17 11:35:36,429: INFO: test_e2e: Blackberry:
+2024-02-17 11:35:36,571: INFO: test_e2e: Nokia Edge:
+2024-02-17 11:35:42,263: INFO: test_e2e: Entering country name:
+2024-02-17 11:35:42,398: INFO: test_e2e: Clicked on agree button:
+2024-02-17 11:35:42,609: INFO: test_e2e: Text received from application:
+2024-02-17 11:35:44,838: INFO: test_e2e2: Entering FirstnameRahul:
+2024-02-17 11:35:45,001: INFO: test_e2e2: Entering emailhello@gmail.com:
+2024-02-17 11:35:45,136: INFO: test_e2e2: Entering Password123456:
+2024-02-17 11:35:45,232: INFO: test_e2e2: Clicking on checkbox:
+2024-02-17 11:35:45,314: INFO: test_e2e2: Clicking on radiobutton:
+2024-02-17 11:35:45,393: INFO: test_e2e2: selecting gender:
+2024-02-17 11:35:45,600: INFO: test_e2e2: ×
+Success! The Form has been submitted successfully!.:
+2024-02-17 11:35:45,978: INFO: test_e2e2: Entering FirstnameVicky:
+2024-02-17 11:35:45,978: INFO: test_e2e2: Entering FirstnameVicky:
+2024-02-17 11:35:46,189: INFO: test_e2e2: Entering emailhello@gmail.com:
+2024-02-17 11:35:46,189: INFO: test_e2e2: Entering emailhello@gmail.com:
+2024-02-17 11:35:46,464: INFO: test_e2e2: Entering Password123456:
+2024-02-17 11:35:46,464: INFO: test_e2e2: Entering Password123456:
+2024-02-17 11:35:46,676: INFO: test_e2e2: Clicking on checkbox:
+2024-02-17 11:35:46,676: INFO: test_e2e2: Clicking on checkbox:
+2024-02-17 11:35:46,827: INFO: test_e2e2: Clicking on radiobutton:
+2024-02-17 11:35:46,827: INFO: test_e2e2: Clicking on radiobutton:
+2024-02-17 11:35:46,998: INFO: test_e2e2: selecting gender:
+2024-02-17 11:35:46,998: INFO: test_e2e2: selecting gender:
+2024-02-17 11:35:47,350: INFO: test_e2e2: ×
+Success! The Form has been submitted successfully!.:
+2024-02-17 11:35:47,350: INFO: test_e2e2: ×
+Success! The Form has been submitted successfully!.:
